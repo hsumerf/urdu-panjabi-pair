@@ -1,0 +1,3 @@
+* text=auto !eol
+/README -text
+/apertium-ur-pa.ur-pa.dix -text
