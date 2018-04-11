@@ -35,12 +35,11 @@ TARGETS_COMMON =		\
 	$(PREFIX2g).prob		\
 	$(PREFIX2g).autobil.bin	\
 	$(PREFIX2g).autolex.bin	\
-	$(PREFIX2g).autogen.bin	\
 	$(PREFIX2s).automorf.bin	\
 	$(PREFIX2s).prob		\
 	$(PREFIX2s).autobil.bin	\
 	$(PREFIX2s).autolex.bin	\
-	$(PREFIX2s).autogen.bin	\
+	$(PREFIX2).autogen.bin	\
 	$(PREFIX2).rlx.bin	\
 	$(PREFIX2).t1x.bin	\
 	$(PREFIX2).t2x.bin	\

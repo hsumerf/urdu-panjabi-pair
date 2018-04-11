@@ -5,6 +5,8 @@
 
     <sdef n="f"       c="Feminine"/>
     <sdef n="m"       c="Masculine"/>
+
+    <sdef n="sent"    c=""/>
   </sdefs>
   <section id="main" type="standard">
 
@@ -169,6 +171,10 @@
     <e><p><l>نماز<s n="n"/><s n="f"/></l><r>نماز<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ماں<s n="n"/><s n="f"/></l><r>ماں<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ماں<s n="n"/><s n="f"/></l><r>ماں<s n="n"/><s n="f"/></r></p></e>
+
+    <!-- SECTION: Punctuation -->
+    <e><p><l>.<s n="sent"/></l><r>.<s n="sent"/></r></p></e>
+
   </section>
 </dictionary>
 
