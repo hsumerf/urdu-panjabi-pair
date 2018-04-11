@@ -19,15 +19,14 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =		\
 	$(PREFIX1g).automorf.bin	\
-	$(PREFIX1g).prob		\
 	$(PREFIX1g).autobil.bin	\
 	$(PREFIX1g).autolex.bin	\
 	$(PREFIX1g).autogen.bin	\
 	$(PREFIX1s).automorf.bin	\
-	$(PREFIX1s).prob		\
 	$(PREFIX1s).autobil.bin	\
 	$(PREFIX1s).autolex.bin	\
 	$(PREFIX1s).autogen.bin	\
+	$(PREFIX1).prob		\
 	$(PREFIX1).rlx.bin	\
 	$(PREFIX1).t1x.bin	\
 	$(PREFIX1).t2x.bin	\

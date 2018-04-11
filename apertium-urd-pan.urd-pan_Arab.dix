@@ -6,7 +6,7 @@
     <sdef n="f"       c="Feminine"/>
     <sdef n="m"       c="Masculine"/>
   </sdefs>
-  <section>
+  <section id="main" type="standard">
 
     <!-- SECTION: Nouns -->
     <e><p><l>افسانہ<s n="n"/><s n="m"/></l><r>افسانہ<s n="n"/><s n="m"/></r></p></e>

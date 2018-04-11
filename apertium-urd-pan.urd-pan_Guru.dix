@@ -5,12 +5,17 @@
 
     <sdef n="f"       c="Feminine"/>
     <sdef n="m"       c="Masculine"/>
+
+    <sdef n="sent"    c=""/>
   </sdefs>
-  <section>
+  <section id="main" type="standard">
 
     <!-- SECTION: Nouns -->
 
-    <e><p><l>@@<s n="n"/><s n="m"/></l><r>@@<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>یار<s n="n"/><s n="m"/></l><r>ਯਾਰ<s n="n"/><s n="m"/></r></p></e>
+
+    <!-- SECTION: Punctuation -->
+    <e><p><l>.<s n="sent"/></l><r>.<s n="sent"/></r></p></e>
   </section>
 </dictionary>
 
