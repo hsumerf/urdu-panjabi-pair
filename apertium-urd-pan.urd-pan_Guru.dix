@@ -1,0 +1,16 @@
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="n"       c="Noun"/>
+
+    <sdef n="f"       c="Feminine"/>
+    <sdef n="m"       c="Masculine"/>
+  </sdefs>
+  <section>
+
+    <!-- SECTION: Nouns -->
+
+    <e><p><l>@@<s n="n"/><s n="m"/></l><r>@@<s n="n"/><s n="m"/></r></p></e>
+  </section>
+</dictionary>
+
