@@ -225,7 +225,8 @@ apertium_urd_pan_DATA=	\
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode \
 	.deps/$(LANG1).automorf.bin \
-	.deps/$(LANG2).automorf.bin
+	.deps/$(LANG2g).automorf.bin \
+	.deps/$(LANG2s).automorf.bin 
 
 install-data-local: install-modes
 
