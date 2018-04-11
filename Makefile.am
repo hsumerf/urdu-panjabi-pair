@@ -137,11 +137,11 @@ $(PREFIX1s).autobil.bin: $(BASENAME).$(PREFIX1s).dix
 	apertium-validate-dictionary $<
 	lt-comp lr $< $@
 
-$(PREFIX2g).autobil.bin: $(BASENAME).$(PREFIX1).dix
+$(PREFIX2g).autobil.bin: $(BASENAME).$(PREFIX1g).dix
 	apertium-validate-dictionary $<
 	lt-comp rl $< $@
 
-$(PREFIX2s).autobil.bin: $(BASENAME).$(PREFIX1).dix
+$(PREFIX2s).autobil.bin: $(BASENAME).$(PREFIX1s).dix
 	apertium-validate-dictionary $<
 	lt-comp rl $< $@
 
