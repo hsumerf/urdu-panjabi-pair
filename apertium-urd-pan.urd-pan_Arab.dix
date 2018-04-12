@@ -2,7 +2,7 @@
   <alphabet/>
   <sdefs>
     <sdef n="n"       c="Noun"/>
-
+    <sdef n="num"     c="Numeral"/>
     <sdef n="f"       c="Feminine"/>
     <sdef n="m"       c="Masculine"/>
 
@@ -171,11 +171,33 @@
     <e><p><l>منطق<s n="n"/><s n="f"/></l><r>منطق<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>نماز<s n="n"/><s n="f"/></l><r>نماز<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ماں<s n="n"/><s n="f"/></l><r>ماں<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ماں<s n="n"/><s n="f"/></l><r>ماں<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>باپ<s n="n"/><s n="m"/></l><r>پیو<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>صفر<s n="num"/></l><r>صفر<s n="num"/></r></p></e>
+    <e><p><l>ايک<s n="num"/></l><r>اک<s n="num"/></r></p></e>
+    <e><p><l>یک<s n="num"/></l><r>اک<s n="num"/></r></p></e>
+    <e><p><l>اک<s n="num"/></l><r>اک<s n="num"/></r></p></e>
+    <e><p><l>پہلا<s n="num"/><s n="ord"/></l><r>پہلا<s n="num"/><s n="ord"/></r></p></e>
+    <e><p><l>پھلواں<s n="num"/><s n="ord"/></l><r>پھلواں<s n="num"/><s n="ord"/></r></p></e>
+    <e><p><l>پھلی<s n="num"/><s n="f"/><s n="ord"/><</l><r>پھلویں<s n="num"/><s n="ord"/><s n="f"/></r></p></e>
+    <e><p><l>یکم<s n="num"/><s n="ord"/></l><r>پھل<s n="num"/><s n="ord"/></r></p></e>
+    <e><p><l>دوئم<s n="num"/><s n="ord"/></l><r>دوسرا<s n="num"/><s n="ord"/></r></p></e>
+    <e><p><l>دو<s n="num"/></l><r>دو<s n="num"/></r></p></e>
+    <e><p><l>دوسرا<s n="num"/><s n="ord"/></l><r>دوسرا<s n="num"/><s n="ord"/></r></p></e>
+    <e><p><l>تین<s n="num"/></l><r>تن<s n="num"/></r></p></e>
+    <e><p><l>تیسرا<s n="num"/><s n="ord"/></l><r>تیجا<s n="num"/><s n="ord"/></r></p></e>
+    <e><p><l>چار<s n="num"/></l><r>چار<s n="num"/></r></p></e>
+    <e><p><l>چوتھا<s n="num"/><s n="ord"/></l><r>چوتھا<s n="num"/><s n="ord"/></r></p></e>
+    <e><p><l>پانچ<s n="num"/></l><r>پنج<s n="num"/></r></p></e>
+    <e><p><l>چھ<s n="num"/></l><r>چھ<s n="num"/></r></p></e>
+    <e><p><l>چھٹا<s n="num"/><s n="ord"/></l><r>چھٹاں<s n="num"/><s n="ord"/></r></p></e>
+    <e><p><l>سات<s n="num"/></l><r>ست<s n="num"/></r></p></e>
+    <e><p><l>آٹھ<s n="num"/></l><r>اٹھ<s n="num"/></r></p></e>
+    <e><p><l>نو<s n="num"/></l><r>نو<s n="num"/></r></p></e>
+    <e><p><l>دس<s n="num"/></l><r>دس<s n="num"/></r></p></e>
 
     <!-- SECTION: Punctuation -->
     <e><p><l>.<s n="sent"/></l><r>.<s n="sent"/></r></p></e>
 
   </section>
 </dictionary>
-
