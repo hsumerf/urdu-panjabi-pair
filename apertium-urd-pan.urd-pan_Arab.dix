@@ -5,6 +5,7 @@
     <sdef n="num"     c="Numeral"/>
     <sdef n="f"       c="Feminine"/>
     <sdef n="m"       c="Masculine"/>
+    <sdef n="ord"       c="order"/>
 
     <sdef n="sent"    c=""/>
   </sdefs>
@@ -179,7 +180,6 @@
     <e><p><l>اک<s n="num"/></l><r>اک<s n="num"/></r></p></e>
     <e><p><l>پہلا<s n="num"/><s n="ord"/></l><r>پہلا<s n="num"/><s n="ord"/></r></p></e>
     <e><p><l>پھلواں<s n="num"/><s n="ord"/></l><r>پھلواں<s n="num"/><s n="ord"/></r></p></e>
-    <e><p><l>پھلی<s n="num"/><s n="f"/><s n="ord"/><</l><r>پھلویں<s n="num"/><s n="ord"/><s n="f"/></r></p></e>
     <e><p><l>یکم<s n="num"/><s n="ord"/></l><r>پھل<s n="num"/><s n="ord"/></r></p></e>
     <e><p><l>دوئم<s n="num"/><s n="ord"/></l><r>دوسرا<s n="num"/><s n="ord"/></r></p></e>
     <e><p><l>دو<s n="num"/></l><r>دو<s n="num"/></r></p></e>
